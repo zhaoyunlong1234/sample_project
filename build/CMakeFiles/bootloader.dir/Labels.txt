@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/zhaoyunlong/esp/esp-workspace/sample_project/build/CMakeFiles/bootloader
+/home/zhaoyunlong/esp/esp-workspace/sample_project/build/CMakeFiles/bootloader.rule
+/home/zhaoyunlong/esp/esp-workspace/sample_project/build/CMakeFiles/bootloader-complete.rule
+/home/zhaoyunlong/esp/esp-workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/zhaoyunlong/esp/esp-workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/zhaoyunlong/esp/esp-workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/zhaoyunlong/esp/esp-workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/zhaoyunlong/esp/esp-workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/zhaoyunlong/esp/esp-workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/zhaoyunlong/esp/esp-workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
